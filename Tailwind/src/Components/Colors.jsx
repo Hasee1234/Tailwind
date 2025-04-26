@@ -49,9 +49,9 @@ const  Colors = () => {
       </div>
       
       <div>
-        <p className='outline-yellow-700 outline outline-8'>outline</p>
+        {/* <p className='outline-yellow-700 outline outline-8'>outline</p>
         <p className='outline-yellow-500 outline outline-8'>outline</p>
-        <p className='outline-yellow-300 outline outline-8'>outline</p>
+        <p className='outline-yellow-300 outline outline-8'>outline</p> */}
       </div>
     </div>
   )
