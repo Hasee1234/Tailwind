@@ -3,7 +3,7 @@ import React from 'react'
 const Positions = () => {
   return (
     <div>
-        {/* absolue  */}
+        {/* absolute  */}
       {/* size is usedforboth hight and width  */}
       {/* <div className="bg-red-200 size-50 absolute bottom-0 right-0">1</div>
       <div className="bg-green-200 size-50 absolute bottom-0 left-0">1</div>
