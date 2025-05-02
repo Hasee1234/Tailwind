@@ -15,6 +15,7 @@ import Media_queries_Break_points from './Media_queries_Break_points'
 import Columns from './Components/Columns'
 import Flex from './Components/Flex'
 import Grid from './Components/Grid'
+import Transition from './Components/Transition'
 
 const App = () => {
   return (
@@ -32,7 +33,8 @@ const App = () => {
       {/* <Media_queries_Break_points/> */}
       {/* <Columns/> */}
       {/* <Flex/> */}
-      <Grid/>
+      {/* <Grid/> */}
+      <Transition/>
     </div>
   )
 }
